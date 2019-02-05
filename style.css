@@ -1,0 +1,85 @@
+* { 
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+} 
+
+.template {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.head {
+    height: 60px;
+    background: rgb(24, 22, 22);
+    color: antiquewhite;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.body {
+    height: 480px;
+}
+
+.i1 {
+    float: left;
+    width: 20%;
+    background: rgb(165, 165, 165);
+    height: 480px;
+}
+
+.i2 {
+    float: left;
+    width: 60%;
+    background: rgb(131, 207, 219); 
+}
+
+.i3 {
+    float: left;
+    width: 20%;
+    background: rgb(211, 211, 211); 
+    height: 480px;
+}
+
+.foot {
+    height: 60px;
+    background: rgb(24, 22, 22);
+    color: antiquewhite;
+    text-align: center;
+    padding-top: 30px;
+}
+
+
+.i2p {
+    width: 70%;
+    float: left;
+    text-align: justify;
+}
+
+.i2img {
+    width: 20%;
+    float: right;
+}
+
+.i2 ul li {
+    padding-left: 15px;
+}
+
+.mypage {
+    margin: 45px;
+    padding: 10px;
+    background: rgb(128, 207, 128);
+    border-radius: 3px;
+}
+
+.mypage:link {
+    color: rgb(236, 235, 235); 
+    text-decoration: none;
+}
+
+.mypage:visited {
+    color: rgb(236, 235, 235); 
+    text-decoration: none;
+}
+
+
